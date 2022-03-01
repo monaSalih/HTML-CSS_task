@@ -1,0 +1,42 @@
+h1 , p {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+h3 { 
+    background-color: lightskyblue;
+    color: blue;
+ }
+
+ #dv1 p span, #txt {color: rgb(86, 86, 248);}
+
+
+ table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+
+
+#lr {
+    font-weight: bold;
+    text-align: center;
+}
+
+#bg{
+    background-color: lightgray;
+}
+
+#tdc {color: rgb(36, 79, 163);}
+
+/* #bg {color: rgb(122, 164, 212)} */
+
+
+#dv3 p span{font-family: cursive; }
+
+
+strong {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+
+  
+
